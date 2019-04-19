@@ -28,7 +28,7 @@ High quality financial content
 
 ### 3. How？
 
-#### ·Prediction
+#### ·Prediction —— A Blockchain Financial Review and Prediction Platform
 
 You must publish an exact verifiable expectation. You must choose the target, time, and forecast price.
 There are two choices for prediction: 
@@ -57,6 +57,7 @@ There are three kinds of participants, and they all can be benefit from the plat
 #### Risk control
 
 ### 5. Some information
+<img width="999" alt="principle" src="https://github.com/ccsimone/Principal/blob/master/Mind%20map.png">
 
 AUGAR：https://www.stox.com/ 
 
@@ -72,7 +73,7 @@ Endor：endor.com/
 
 Delphy：delphy.org/
 
-Others：
+Others
 
 Blockstack：https://blockstack.org/
 
