@@ -30,19 +30,18 @@ High quality financial content
 
 #### ·Prediction
 
+You must publish an exact verifiable expectation. You must choose the target, time, and forecast price.
 There are two choices for prediction: 
 
 1. for free: 
 
 If the prediction is correct, user can get the reliability score, and a small amount of Token coupon. These rewards can gain attention and audience, which can let them grow into personal IP the future (A mechanism to attract users to use the system; meets the wishes of those who like to predict); 
 
-You must publish an exact verifiable expectation. You must choose the target, time, and forecast price.
-
 2. On gambling(Smart contract): 
 
 The real prediction market, one can earn Token based on the gambling opponent.
 
-#### ·Community
+#### ·Token and reliability score
 There are three kinds of participants, and they all can be benefit from the platform.
 
 1.	Traditional financial media: They can use the system to publish the financial information and benefit from the first and exclusive, true and efficient information, based on information source authentication to realize copyright protection.
@@ -51,7 +50,6 @@ There are three kinds of participants, and they all can be benefit from the plat
 
 3.	User: They can publish their own comments and get an individual reliability score to accumulate Token. And they can use Token to exchange valuable information provided by other publishers.
 
-#### ·Token and reliability score
 #### ·NLP labeled data
 
 ### 4. Control
