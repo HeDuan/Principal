@@ -1,6 +1,6 @@
 # PHBS_BlockChain_2018
 
-## Principal
+## Principal —— A Blockchain Financial Review and Prediction Platform
 
 ### 1. Why？ ——Background
 
@@ -38,7 +38,7 @@ The tools in his company: dot collector - It is a tool to express your own thoug
 
 ### 3. How？
 
-#### ·Prediction —— A Blockchain Financial Review and Prediction Platform
+#### ·Prediction
 
 There are two choices for prediction: 
 
