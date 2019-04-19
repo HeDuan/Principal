@@ -23,14 +23,18 @@ The tools in his company: dot collector - It is a tool to express your own thoug
 ### 2. What？
 #### Description
 
+"Principal" is a real name financial information forum based on block chain. Any person or institution that has published meaningful, reasonable and effective information can become a financial information provider on the platform. According to the validation of the correctness of historical publishing information, the block chain defines the credibility for each publisher for information readers to subscribe. Valuable information providers and platform users will receive a certain number of tokens to exchange deep information.
+
 #### Function
+
 1. Real-time market data, like a traditional financial platform.
 
-2. Financial information, about all finance, economy, market and company things.
+2. Financial information recommendation, about all finance, economy, market and company things，like a meida.
 
-High quality financial content
-#### Media
-#### Prediction
+3. Review and comments, like a community and forum, provifing high quality financial content.
+
+4. Prediction and vertification.
+
 
 ### 3. How？
 
@@ -53,21 +57,24 @@ There are three kinds of participants, and they all can be benefit from the plat
 
 2.	Analysts/ Official Accounts/ We-Media: They can publish part of their research on the platform for free to gather audience and acquire high reliability score and Token. When users and scores accumulate to a certain number, they can publish paid subscription content to get more Token.
 
-3.	User: They can publish their own comments and get an individual reliability score to accumulate Token. And they can use Token to exchange valuable information provided by other publishers.
+3.	User: User's use and attention will win him Token. And they can publish their own comments and get an individual reliability score to accumulate Token. And they can use Token to exchange valuable information provided by other publishers.
 
 #### ·NLP labeled data
 
-Mechanism： When users post comments, they must indicate their views.
+Mechanism： 
 
-You must choose the target, time, and forecast price.
+When users post comments, they must indicate their views.
 
+They must choose the target, time, and forecast price.
+
+So do the analysts when they post their comments and reports.
 
 ### 4. Control
 #### Anti-cheating: Make sure the benefits and rewards flow to real customer.
 #### Risk control: Token value is likely to face huge fluctuations.
 
 ### 5. Some information
-<img width="999" alt="principle" src="https://github.com/ccsimone/Principal/blob/master/Mind%20map.png">
+My brainstorming.<img width="999" alt="principle" src="https://github.com/ccsimone/Principal/blob/master/Mind%20map.png">
 
 AUGAR：https://www.stox.com/ 
 
