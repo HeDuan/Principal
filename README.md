@@ -2,15 +2,21 @@
 
 ## Principal
 
-### 1. Why？ Background
+### 1. Why？ ——Background
 
-· Two painpoint: 
+· Two painpoints: 
 
-      1.Too much fake, duplicate and garbage information. ——We need a new financial media.
+1.Too much fake, duplicate and garbage information. ——We need a new financial media.
 
-      2.People like to predict. The prosperity of China’s stock market in 2019. ——Give them chance to release predictions and comments.
+2.People like to predict China’s stock market in 2019. ——Give them chance to release predictions and comments.
 
-· An idea from the book —— Principles, by Ray Dalio.   
+· Two ideas：
+
+1.An idea from blockchain
+
+Inspire content creators to post valuable original information on blockchain. Advertising, using blockchain to remove the middle agency and directly link readers and content creators, then vendors will pay directly to the user's attention and content creators.
+
+2.An idea from the book —— Principles, by Ray Dalio.   
 
 The tools in his company: dot collector - It is a tool to express your own thoughts, evaluate others' ideas, and say whether you agree or disagree. Give each person a credibility weighted score by others vote. In the end, everyone will release more valuable information.
 
@@ -30,7 +36,6 @@ High quality financial content
 
 #### ·Prediction —— A Blockchain Financial Review and Prediction Platform
 
-You must publish an exact verifiable expectation. You must choose the target, time, and forecast price.
 There are two choices for prediction: 
 
 1. for free: 
@@ -52,9 +57,14 @@ There are three kinds of participants, and they all can be benefit from the plat
 
 #### ·NLP labeled data
 
+Mechanism： When users post comments, they must indicate their views.
+
+You must choose the target, time, and forecast price.
+
+
 ### 4. Control
-#### Anti-cheating: Make sure the benefits and rewards flow to real customer
-#### Risk control
+#### Anti-cheating: Make sure the benefits and rewards flow to real customer.
+#### Risk control: Token value is likely to face huge fluctuations.
 
 ### 5. Some information
 <img width="999" alt="principle" src="https://github.com/ccsimone/Principal/blob/master/Mind%20map.png">
