@@ -31,7 +31,7 @@ The tools in his company: dot collector - It is a tool to express your own thoug
 
 2. Financial information recommendation, about all finance, economy, market and company things，like a meida.
 
-3. Review and comments, like a community and forum, provifing high quality financial content.
+3. Review and comments, like a community and forum, providing high quality financial content.
 
 4. Prediction and vertification.
 
@@ -44,7 +44,7 @@ There are two choices for prediction:
 
 1. for free: 
 
-If the prediction is correct, user can get the reliability score, and a small amount of Token coupon. These rewards can gain attention and audience, which can let them grow into personal IP the future (A mechanism to attract users to use the system; meets the wishes of those who like to predict); 
+If the prediction is correct, user can get the reliability score, and a small amount of Token coupon. These rewards can gain attention and audience, which can let them grow into personal IP the future (A mechanism to attract users to use the system; meet the wishes of those who like to predict); 
 
 2. On gambling(Smart contract): 
 
@@ -76,7 +76,7 @@ So do the analysts when they post their comments and reports.
 ### 5. Some information
 My brainstorming.<img width="999" alt="principle" src="https://github.com/ccsimone/Principal/blob/master/Mind%20map.png">
 
-AUGAR：https://www.stox.com/ 
+AUGAR：https://www.augur.net/
 
 Gnosis：https://www.gnosis.pm/
 
